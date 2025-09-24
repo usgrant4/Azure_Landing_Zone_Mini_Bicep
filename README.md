@@ -7,8 +7,6 @@ Minimal, reproducible Azure landing zone showcasing platform engineering fundame
 ![Azure](https://img.shields.io/badge/Azure-Ready-0072C6)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
-> Replace `OWNER/REPO` with your GitHub org/user and repository name. The CI badge is optional (sample workflow shown below).
-
 ---
 
 ## What this delivers
