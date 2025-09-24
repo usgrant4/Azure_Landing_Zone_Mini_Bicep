@@ -1,0 +1,17 @@
+{
+  "env": {
+    "value": "uat"
+  },
+  "tags": {
+    "value": {
+      "env": "uat",
+      "owner": "platform"
+    }
+  },
+  "hubCidr": {
+    "value": "10.100.0.0/24"
+  },
+  "spokeCidr": {
+    "value": "10.101.0.0/24"
+  }
+}
